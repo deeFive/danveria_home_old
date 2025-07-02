@@ -1,0 +1,30 @@
+.body{
+    background-color: #0000b4 !important;
+} 
+            
+.jumbotron{
+    background-color: #0000b4;
+    color: #ffffff;
+}
+
+.container{
+    background-color: #0000b4;
+    color: #ffffff;
+}
+
+.hometile{
+    background-image: url("img/Logo.png");
+    background-repeat: no-repeat;
+}
+
+.canvas{
+    border: 5px solid black;
+}
+
+.img{
+    margin: auto;
+}
+
+.img-responsive{
+    margin: auto;
+}
